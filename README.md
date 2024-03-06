@@ -1,12 +1,4 @@
 
-
-
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGYzYnl6ZnA3Zzc4eHprazlpbHQ0Ynluc2w0a2tkbnhlNXYycmw1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" height="300" width="600" />
-</div>  
-
-<br/>
-
 <p style="text-size:60rem;">Hello, I'm Yunus Emre Çiçek. I am experienced in software development and I create projects using technologies like C#, Java, Spring Boot, Flutter, and Vue.js. I work on both backend and frontend development, and I am always improving myself by focusing on new technologies and best practices🙂</p>
 <ul>
   <li>
@@ -80,7 +72,6 @@
 <h3 align="center">Statistics</h3>
 
 <p>&nbsp;<img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=yunusemree55&show_icons=true&locale=en&theme=dracula" alt="yunusemree55" />
-<img align="center" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemree55&theme=dracula" alt="yunusemree55" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunusemree55&theme=2077" height="50%" />
 </p>
 
