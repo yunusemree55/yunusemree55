@@ -1,11 +1,11 @@
 
-<p style="text-size:60rem;">Hello, I'm Yunus Emre Çiçek. I am experienced in software development and I create projects using technologies like C#, Java, Spring Boot, Flutter, and Vue.js. I work on both backend and frontend development, and I am always improving myself by focusing on new technologies and best practices🙂</p>
+<p style="text-size:60rem;">Hello, I'm Yunus Emre Çiçek. I am experienced in software development and I create projects using technologies like C#, Java, Spring Boot, and Flutter. I work on both backend and frontend development, and I am always improving myself by focusing on new technologies and best practices🙂</p>
 <ul>
   <li>
-     🔭 I’m currently working on <a href="https://github.com/yunusemree55/RentACar">Rent A Car</a> project
+     🔭 I’m currently working on <a href="https://github.com/yunusemree55/Rentio">Rentio</a> project
   </li>
   <li>
-    🌱 I’m currently learning <b>C#</b> and <b>Flutter</b>
+    🌱 I’m currently learning <b>React</b> and <b>Flutter</b>
   </li>
   <li>
     💬 Ask me about <b>Java,Spring boot</b> and <b>Vue.js</b>
